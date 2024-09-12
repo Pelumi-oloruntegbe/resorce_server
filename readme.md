@@ -181,7 +181,6 @@ Errors
 
 
 
-
 3. POST /resources
 Description: Create a new resource.
 Method: POST
@@ -223,6 +222,7 @@ Errors
 
 
 4. PUT /resources/
+
 Description: Update an existing resource's information.
 Method: PUT
 URL: /api/v1/resources/:resourceId
@@ -232,8 +232,10 @@ Request Body (JSON): Fields to update (any combination of the following):
 name (string, optional)
 email (string)
 Response: The updated resource.
+
+
 Example Request
-bash
+
 PUT https://resorce-server.onrender.com/api/v1/resources/612c44d8f1f4de23e47e93c1
 Content-Type: application/json
 
@@ -287,21 +289,6 @@ For all endpoints, appropriate error messages will be returned with the correspo
 404 Not Found: If the resource (user) is not found.
 500 Internal Server Error: If there's a server-side issue.
 
-
-
-Setup and Installation
-
-Clone the Repository:
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-
-
-Install Dependencies:
-
-npm install
-Run the Application:
-npm start
-Test the API Endpoints: You can use tools like Postman or curl to test the API.
 
 Technologies Used
 Node.js: JavaScript runtime environment.
